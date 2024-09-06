@@ -1,4 +1,3 @@
-import { inject } from "@vercel/analytics"
 const boxes = document.querySelectorAll('.cell');
 const resetBtn = document.querySelector('.resetBtn');
 const winnerPlayer = document.querySelector('#winnerPlayer');
